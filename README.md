@@ -13,7 +13,7 @@ This repository contains the code for the project Multimodal Fusion of Small Sam
 This project contains five datasets: ADNI, ADNI_fMRI, FTD_fMRI, OCD_fMRI, PPMI.
 Each dataset corresponds to the activity of different brain regions (blood oxygen levels in brain regions, etc.) in patients with the corresponding brain disease (Alzheimer's disease, Frontotemporal Dementia, Obsessive Compulsive Disorder and Parkinson's Progression Markers Initiative) and in normal people.
 
-## Dataset
+## Mission
 Our mission is to do the classification between patients and normal people based on the feature.
 
 ## ProjectI
